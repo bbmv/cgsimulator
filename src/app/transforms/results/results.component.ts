@@ -21,8 +21,8 @@ import { Component, ViewChild, ElementRef } from '@angular/core';
 	`] 
 })
 export class ResultsComponent {
-	private result: string;
-	private score: string;
+	result: string;
+	score: string;
 	private correct: number = 0;
 	private all: number = 0;
 	@ViewChild('results') results: ElementRef;

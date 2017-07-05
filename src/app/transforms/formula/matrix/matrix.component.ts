@@ -45,7 +45,7 @@ export class MatrixComponent {
 		return el; 
 	}
 
-  private trackByIndex(index: number, value: number): number {
+  trackByIndex(index: number, value: number): number {
     return index;
   }
 } 

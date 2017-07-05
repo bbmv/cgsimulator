@@ -21,10 +21,10 @@ export class ControlsComponent {
 	@Output() onClickTfm = new EventEmitter<void>();
 	@Output() onClickNxt = new EventEmitter<void>();
 	
-	private transform(): void {
+	transform(): void {
 		this.onClickTfm.emit();
 	}
-	private next(): void {
+	next(): void {
 		this.onClickNxt.emit();
 	}
 }

@@ -50,12 +50,12 @@ export class Transform2dComponent implements AfterContentChecked, OnInit, AfterV
 	ngAfterViewInit() {
 		this.graphics.show(this.sMx);
 	}	
-	private transform(): void {
+	transform(): void {
 		this.graphics.transform(this.formula.mxTransform);
 		let res: boolean = this.cTrS.compare(this.formula.mxTransform, this.sMx);
 		this.results.show(res);
 	}
-	private next(): void {
+	next(): void {
 		this.sMx = this.tasks.generateNewTask();
 		this.graphics.show(this.sMx);
 		this.results.init();

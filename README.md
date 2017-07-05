@@ -4,3 +4,5 @@ CGSimulator (c) 2017 Boris Buimov
 version 1.0.3
 
 The computer graphics simulator for studying multidimensional geometric transformations.
+
+[You can see here how it works (https://bbmv.github.io/cgsimulator/)](https://bbmv.github.io/cgsimulator/)

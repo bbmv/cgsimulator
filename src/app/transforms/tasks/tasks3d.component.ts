@@ -9,7 +9,7 @@ import { RandomService } from "./random.service"
 	providers: [RandomService]
 })
 export class Tasks3dComponent {
-	private message: string;
+	message: string;
 	constructor(private randS: RandomService) {}
 
 	generateNewTask(): Array<Array<number>> {
