@@ -5,4 +5,9 @@ version 1.0.3
 
 The computer graphics simulator for studying multidimensional geometric transformations.
 
-[You can see how it works here - https://bbmv.github.io/cgsimulator/](https://bbmv.github.io/cgsimulator/)
+[You can try it here - https://bbmv.github.io/cgsimulator/](https://bbmv.github.io/cgsimulator/)
+
+![alt text](https://bbmv.github.io/cgsimulator/images/2d.png "2-D Transformations")
+![alt text](https://bbmv.github.io/cgsimulator/images/3d.png "3-D Transformations")
+
+
