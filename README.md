@@ -7,8 +7,8 @@ The computer graphics simulator for studying multidimensional geometric transfor
 
 [You can try it here - https://bbmv.github.io/cgsimulator/](https://bbmv.github.io/cgsimulator/)
 
-<p align="center">
-  <img style="vertical-align:text-top;" src="https://github.com/bbmv/bbmv.github.io/raw/master/cgsimulator/images/2d.png">
+<p align="center" style="vertical-align: text-top;">
+  <img style="vertical-align: text-top;" src="https://github.com/bbmv/bbmv.github.io/raw/master/cgsimulator/images/2d.png">
   <img src="https://github.com/bbmv/bbmv.github.io/raw/master/cgsimulator/images/3d.png">
 </p>
 
