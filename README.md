@@ -8,7 +8,6 @@ The computer graphics simulator for studying multidimensional geometric transfor
 [You can try it here - https://bbmv.github.io/cgsimulator/](https://bbmv.github.io/cgsimulator/)
 
 [![2-D Transformations](https://github.com/bbmv/bbmv.github.io/raw/master/cgsimulator/images/2d.png)
-](https://bbmv.github.io/cgsimulator/transform2d)
-
+](https://bbmv.github.io/cgsimulator/transform2d/)
 [![3-D Transformations](https://github.com/bbmv/bbmv.github.io/raw/master/cgsimulator/images/3d.png)
-](https://bbmv.github.io/cgsimulator/transform3d)
+](https://bbmv.github.io/cgsimulator/transform3d/)
