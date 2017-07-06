@@ -5,7 +5,7 @@ version 1.0.3
 
 The computer graphics simulator for studying multidimensional geometric transformations.
 
-Read the task, fill the transformation matrix and click the button Transform. 
+Just read the task, fill the transformation matrix and click the button Transform. 
 Click the button Next to move on to the next task.
 
 [You can try it here - https://bbmv.github.io/cgsimulator/](https://bbmv.github.io/cgsimulator/)
