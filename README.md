@@ -15,7 +15,7 @@ The computer graphics simulator for studying multidimensional geometric transfor
 ![2-D Transformations](https://bbmv.github.io/cgsimulator/images/2d.png)
 ![3-D Transformations](https://bbmv.github.io/cgsimulator/images/3d.png)
 
-[2-D Transformations](https://bbmv.github.io/cgsimulator/images/3d.png)
+![2-D Transformations](https://github.com/bbmv/bbmv.github.io/raw/master/cgsimulator/images/2d.png)
 
 
 
